@@ -1,0 +1,1 @@
+const progressSummaryOfOrder=document.grtElementbyiD('pregress-summary-of-order');
